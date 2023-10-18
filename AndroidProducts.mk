@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_guam.mk
+    $(LOCAL_DIR)/twrp_guam.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_guam-user \
-    omni_guam-userdebug \
-    omni_guam-eng
+    twrp_guam-user \
+    twrp_guam-userdebug \
+    twrp_guam-eng
